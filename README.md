@@ -10,7 +10,7 @@ This repository contains the complete submission for a three-part coursework pro
 **📝 Objective**
 To explore and compare the performance of various supervised and unsupervised learning algorithms using a mock dataset of second-hand car sales in the UK (55,000 entries). The dataset includes attributes such as manufacturer, model, engine size, fuel type, year, mileage, and sale price.
 
----
+
 
 #### 🔹 **Supervised Learning Approach**
 
@@ -30,7 +30,7 @@ To explore and compare the performance of various supervised and unsupervised le
   * Root Mean Square Error (RMSE)
   * R² Score
 
----
+
 
 #### 🔹 **Unsupervised Learning Approach**
 
@@ -45,7 +45,7 @@ To explore and compare the performance of various supervised and unsupervised le
   * **Agglomerative Clustering**
 * Visualised cluster distributions to identify hidden groupings in vehicle sales.
 
----
+
 
 #### 📌 **Key Deliverables**
 
@@ -61,7 +61,7 @@ To explore and compare the performance of various supervised and unsupervised le
 **📝 Objective**
 To develop a deep learning model (CNN) that can accurately classify handwritten digits from the MNIST dataset.
 
----
+
 
 #### 🔹 **Model Architecture**
 
@@ -76,14 +76,14 @@ To develop a deep learning model (CNN) that can accurately classify handwritten 
   * **ReLU** (hidden layers)
   * **Softmax** (output layer)
 
----
+
 
 #### 🔹 **Regularisation Techniques**
 
 * **Dropout Layers** to prevent overfitting
 * **Early Stopping** to monitor validation loss and halt training at optimal point
 
----
+
 
 #### 🔹 **Hyperparameter Tuning**
 
@@ -99,7 +99,7 @@ To develop a deep learning model (CNN) that can accurately classify handwritten 
   * Confusion matrix
   * Loss curves
 
----
+
 
 #### 📌 **Key Deliverables**
 
@@ -107,14 +107,14 @@ To develop a deep learning model (CNN) that can accurately classify handwritten 
 * Visual comparison of training vs validation accuracy/loss
 * Discussion of architecture design and model improvements
 
----
+
 
 ### 📙 **Exercise 3: Literature Review – Ethical Applications of AI**
 
 **📝 Objective**
 To evaluate three peer-reviewed academic papers focused on ethical aspects of AI. This review focuses on **Fairness and Bias in AI applications**.
 
----
+
 
 #### 🔹 **Methodology**
 
@@ -125,7 +125,7 @@ To evaluate three peer-reviewed academic papers focused on ethical aspects of AI
   * Evaluated strengths and ethical concerns
   * Compared real-world relevance of proposed frameworks
 
----
+
 
 #### 🔹 **Analysis Highlights**
 
