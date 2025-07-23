@@ -35,6 +35,8 @@ Supervised Learning:
 
 * Performance comparisons with relevant plots, metrics, and justifications.
 
+---
+
 ### **📗 Exercise 2: Image Recognition Using CNN on the MNIST Dataset** 
 * **Objective:**
 To develop, tune, and evaluate a Convolutional Neural Network (CNN) for accurate classification of handwritten digits using the popular MNIST dataset.
@@ -58,6 +60,8 @@ To develop, tune, and evaluate a Convolutional Neural Network (CNN) for accurate
 * Model performance metrics including overall accuracy and per-class performance.
 
 * Discussion of the architecture’s design choices and regularisation strategies.
+
+---
 
 ### **📙 Exercise 3: Literature Review – Ethical Applications of AI** 
 * **Objective:**
@@ -86,6 +90,8 @@ To critically review and summarise three journal articles that address the ethic
 * Accountability in automated decision-making systems
 
 * Human-centric and inclusive AI practices
+
+---
 
 ### **Conclusion**
 
